@@ -7,7 +7,7 @@
 ---
 
 🌟 **About Me**
-- 🔭 Currently working at **chargeMOD** as a **PHP Laravel Developer** and **Team Lead**.
+- 🔭 Currently working at **chargeMOD** as a **Lead Software Engineer** and **Technical Project Lead**.
 - 🌱 Learning: MERN Stack, Cloud Computing, and System Design.
 - 🚀 Passionate about building scalable and impactful software solutions.
 
@@ -36,6 +36,6 @@
 ---
 
 🌐 **Let's Connect**
-- 📧 Email: [mazinali@example.com](mailto:mazinaliup@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mazin-ali-0b94b3123/)
-- 🌍 Portfolio: [your-portfolio.com](https://mazinaliup.com)
+- 📧 Email: [mazinaliup@gmail.com](mailto:mazinaliup@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mazin-ali-0b94b3123/](https://www.linkedin.com/in/mazin-ali-0b94b3123/)
+- 🌍 Portfolio: [mazinaliup.com](https://mazinaliup.com)
