@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Mazin Ali!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=internet-explorer&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mazin-ali-0b94b3123/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mazinaliup)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=internet-explorer&logoColor=white)](https://mazinaliup.com)
 
 ---
 
