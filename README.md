@@ -7,8 +7,8 @@
 ---
 
 🌟 **About Me**
-- 🔭 Currently working at **chargeMOD** as a **Lead Software Engineer** and **Technical Project Lead**.
-- 🌱 Learning: MERN Stack, Cloud Computing, and System Design.
+- 🔭 **Software Engineer** and **Technical Project Lead**.
+- 🌱 Expertise in PHP Laravel, Node js, React js, Cloud Computing, and System Design.
 - 🚀 Passionate about building scalable and impactful software solutions.
 
 ---
